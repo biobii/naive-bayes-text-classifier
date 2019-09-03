@@ -24,7 +24,5 @@
         "psr-4": {
             "Biobii\\": "src/"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
