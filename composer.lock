@@ -1,0 +1,74 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "a0da88b7c144895005e67fbb4c16226d",
+    "packages": [
+        {
+            "name": "sastrawi/sastrawi",
+            "version": "v1.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sastrawi/sastrawi.git",
+                "reference": "31fd4261dd4980cc57447f44d1aec4bd69e2abec"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sastrawi/sastrawi/zipball/31fd4261dd4980cc57447f44d1aec4bd69e2abec",
+                "reference": "31fd4261dd4980cc57447f44d1aec4bd69e2abec",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.8.7",
+                "squizlabs/php_codesniffer": "~1.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.1.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Sastrawi\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Andy Librian",
+                    "role": "Lead Developer",
+                    "email": "andylibrian@gmail.com",
+                    "homepage": "http://andylibrian.com"
+                }
+            ],
+            "description": "PHP library for stemming Indonesian language (Bahasa Indonesia)",
+            "homepage": "https://github.com/sastrawi/sastrawi",
+            "keywords": [
+                "bahasa",
+                "indonesia",
+                "indonesian",
+                "kata dasar",
+                "root word",
+                "stem"
+            ],
+            "time": "2016-10-22T03:19:27+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

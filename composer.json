@@ -1,0 +1,19 @@
+{
+    "name": "biobii/naive-bayes-text-classifier",
+    "description": "Text classification using Naive Bayes approach",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mohammad Robih T. Z",
+            "email": "biobii.game@gmail.com"
+        }
+    ],
+    "require": {
+        "sastrawi/sastrawi": "^1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Biobii\\": "src/"
+        }
+    }
+}
