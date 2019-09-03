@@ -2,6 +2,14 @@
     "name": "biobii/naive-bayes-text-classifier",
     "description": "Text classification using Naive Bayes approach",
     "type": "library",
+    "keywords": [
+        "naive bayes",
+        "php naive bayes",
+        "klasifikasi teks",
+        "bahasa indonesia",
+        "klasifikasi naive bayes"
+    ],
+    "license": "MIT",
     "authors": [
         {
             "name": "Mohammad Robih T. Z",
@@ -15,5 +23,6 @@
         "psr-4": {
             "Biobii\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
